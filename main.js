@@ -34,7 +34,7 @@ const app = {
         {
             name: "Nevada",
             singer: "Cozi Zuehlsdorff, Vicetone",
-            path: "https://vnso-zn-23-tf-a128-z3.zmdcdn.me/e17a59a5fdf5bad35088720fc8271e45?authen=exp=1712471933~acl=/e17a59a5fdf5bad35088720fc8271e45/*~hmac=d18ba4ed511a937877a5949216229b08",
+            path: "./music/Vicetone - Nevada (ft. Cozi Zuehlsdorff).mp4",
             image: "https://i.ytimg.com/vi/ycOm6wFxMhQ/maxresdefault.jpg"
         },
         {
@@ -51,23 +51,23 @@ const app = {
             image: "https://i.ytimg.com/vi/ULo95Mm_s20/maxresdefault.jpg"
         },
         {
-            name: "Damn",
-            singer: "Raftaar x kr$na",
+            name: "Tiếng Pháo Tiễn Người",
+            singer: "Hùng Quân",
             path:
-                "https://mp3.filmisongs.com/go.php?id=Damn%20Song%20Raftaar%20Ft%20KrSNa.mp3",
+                "./music/TIẾNG PHÁO TIỄN NGƯỜI - HÙNG QUÂN - OFFICIAL MUSIC VIDEO.mp4",
             image:
-                "https://i.ytimg.com/vi/Ae_vg5LgWm4/sddefault.jpg"
+                "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/b/7/8/5/b7853b339822edbda2293f9dd9177118.jpg"
         },
         {
             name: "Nevada",
             singer: "Cozi Zuehlsdorff, Vicetone",
-            path: "https://vnso-zn-23-tf-a128-z3.zmdcdn.me/e17a59a5fdf5bad35088720fc8271e45?authen=exp=1712471933~acl=/e17a59a5fdf5bad35088720fc8271e45/*~hmac=d18ba4ed511a937877a5949216229b08",
+            path: "./music/Vicetone - Nevada (ft. Cozi Zuehlsdorff).mp4",
             image: "https://i.ytimg.com/vi/ycOm6wFxMhQ/maxresdefault.jpg"
         },
         {
             name: "Summertime",
             singer: "K-391",
-            path: "https://vnso-pt-14-tf-preview-z3.zmdcdn.me/d2affef7f5b3ea85d8500a4ed7635e2b?authen=exp=1712472419~acl=/d2affef7f5b3ea85d8500a4ed7635e2b/*~hmac=1bfb6213d8341652ce0cd77adda570b3",
+            path: "./music/K-391 - Summertime [Sunshine].mp4",
             image:
                 "https://i.ytimg.com/vi/25N1pdzvp4c/maxresdefault.jpg"
         },
@@ -78,12 +78,12 @@ const app = {
             image: "https://i.ytimg.com/vi/ULo95Mm_s20/maxresdefault.jpg"
         },
         {
-            name: "Damn",
-            singer: "Raftaar x kr$na",
+            name: "Tiếng Pháo Tiễn Người",
+            singer: "Hùng Quân",
             path:
-                "https://mp3.filmisongs.com/go.php?id=Damn%20Song%20Raftaar%20Ft%20KrSNa.mp3",
+                "./music/TIẾNG PHÁO TIỄN NGƯỜI - HÙNG QUÂN - OFFICIAL MUSIC VIDEO.mp4",
             image:
-                "https://i.ytimg.com/vi/Ae_vg5LgWm4/sddefault.jpg"
+                "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/b/7/8/5/b7853b339822edbda2293f9dd9177118.jpg"
         },
     ],
     defineProperties() {
