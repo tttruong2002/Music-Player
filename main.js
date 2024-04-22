@@ -51,10 +51,10 @@ const app = {
             image: "https://i.ytimg.com/vi/ULo95Mm_s20/maxresdefault.jpg"
         },
         {
-            name: "Tiếng Pháo Tiễn Người",
-            singer: "Hùng Quân",
+            name: "Tieng Phao Tien Nguoi",
+            singer: "Hung Quan",
             path:
-                "./music/TIẾNG PHÁO TIỄN NGƯỜI - HÙNG QUÂN - OFFICIAL MUSIC VIDEO.mp4",
+                "./music/TIENG PHAO TIEN NGUOI - HUNG QUAN - OFFICIAL MUSIC VIDEO.mp4",
             image:
                 "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/b/7/8/5/b7853b339822edbda2293f9dd9177118.jpg"
         },
@@ -78,10 +78,10 @@ const app = {
             image: "https://i.ytimg.com/vi/ULo95Mm_s20/maxresdefault.jpg"
         },
         {
-            name: "Tiếng Pháo Tiễn Người",
-            singer: "Hùng Quân",
+            name: "Tieng Phao Tien Nguoi",
+            singer: "Hung Quan",
             path:
-                "./music/TIẾNG PHÁO TIỄN NGƯỜI - HÙNG QUÂN - OFFICIAL MUSIC VIDEO.mp4",
+                "./music/TIENG PHAO TIEN NGUOI - HUNG QUAN - OFFICIAL MUSIC VIDEO.mp4",
             image:
                 "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/b/7/8/5/b7853b339822edbda2293f9dd9177118.jpg"
         },
@@ -340,6 +340,7 @@ app.start();
 
 /** Nhiệm vụ còn lại:
 1. Hạn chế tối đa các bài hát bị lặp lại
+=> Xử lý phần lớn nằm trong hàm playRandomSong()
 
 2. Fix lỗi khi tua bài hát, click giữ một chút sẽ thấy lỗi, 
 vì event updatetime nó liên tục chạy dẫn tới lỗi
