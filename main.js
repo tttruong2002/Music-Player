@@ -51,8 +51,8 @@ const app = {
             image: "https://i.ytimg.com/vi/ULo95Mm_s20/maxresdefault.jpg"
         },
         {
-            name: "Tieng Phao Tien Nguoi",
-            singer: "Hung Quan",
+            name: "Tiếng Pháo Tiễn Người",
+            singer: "Hùng Quân",
             path:
                 "./music/TIENG PHAO TIEN NGUOI - HUNG QUAN - OFFICIAL MUSIC VIDEO.mp4",
             image:
@@ -78,8 +78,8 @@ const app = {
             image: "https://i.ytimg.com/vi/ULo95Mm_s20/maxresdefault.jpg"
         },
         {
-            name: "Tieng Phao Tien Nguoi",
-            singer: "Hung Quan",
+            name: "Tiếng Pháo Tiễn Người",
+            singer: "Hùng Quân",
             path:
                 "./music/TIENG PHAO TIEN NGUOI - HUNG QUAN - OFFICIAL MUSIC VIDEO.mp4",
             image:
